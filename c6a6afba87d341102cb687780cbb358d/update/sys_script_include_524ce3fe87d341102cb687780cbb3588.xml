@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_snc_remijenkinsa.remijenkinsapp1_script_include</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>remijenkinsapp1_script_include</name>
+        <script><![CDATA[var remijenkinsapp1_script_include = Class.create();
+remijenkinsapp1_script_include.prototype = {
+    initialize: function() {
+    },
+	// some code here
+	
+    type: 'remijenkinsapp1_script_include'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-10 15:23:10</sys_created_on>
+        <sys_id>524ce3fe87d341102cb687780cbb3588</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>remijenkinsapp1_script_include</sys_name>
+        <sys_package display_value="remijenkinsapp1" source="x_snc_remijenkinsa">c6a6afba87d341102cb687780cbb358d</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="remijenkinsapp1">c6a6afba87d341102cb687780cbb358d</sys_scope>
+        <sys_update_name>sys_script_include_524ce3fe87d341102cb687780cbb3588</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-10 15:23:10</sys_updated_on>
+    </sys_script_include>
+</record_update>
